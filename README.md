@@ -1,2 +1,10 @@
-# Patterns-using-java
-Some basic to advance questions related to patterns using java
+# Pattern-Questions
+Some basic to advance questions of pattern using loops in java
+
+*   
+* * 
+* * *
+* * * *
+* * *
+* *
+* 
